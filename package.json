@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/macmessa/react-tdd/issues"
   },
-  "homepage": "https://github.com/macmessa/react-tdd#readme"
+  "homepage": "https://github.com/macmessa/react-tdd#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  }
 }
