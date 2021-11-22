@@ -1,0 +1,20 @@
+{
+  "name": "react-tdd",
+  "version": "1.0.0",
+  "description": "Sistema completo em ReactJS com Typescript e Hooks, utilizando TDD, Clean Architecture, Design Patterns e SOLID.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macmessa/react-tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macmessa/react-tdd/issues"
+  },
+  "homepage": "https://github.com/macmessa/react-tdd#readme"
+}
